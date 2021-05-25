@@ -1,0 +1,181 @@
+.header
+{
+    width: 90%;
+    display: inline-block;
+
+    margin-right:5%;
+    margin-left:5%;
+}
+
+
+#img1
+{
+    width: 150px;
+    height: 70px;
+    margin-top:2.5%;
+    margin-bottom: 3%;
+    margin-left:1%;
+
+    float:left
+}
+#header1
+{
+    display: inline-block;
+
+    margin-top:3.5%;
+    margin-right:1%;
+    font-size: small;
+    float:right
+}
+#img2
+{
+    width: 90%;
+    height: 20%;
+    margin-top:auto;
+    margin-right:5%;
+    margin-bottom:2%;
+    margin-left:5%;
+
+}
+ul li
+{
+    display: inline-block;
+    margin-right:35px;
+
+}
+
+#header2
+{
+    width: 43%;
+    display: inline-block;
+
+    float:left
+}
+#header3
+{
+
+    display: inline-block;
+
+    float:left
+}
+#header4
+{
+    display: inline-block;
+
+    float:right
+}
+.quyu
+{
+    display: inline-block;
+    width:49.7%;
+
+    word-wrap: break-word;
+    float:left
+}
+.quyu1
+{
+    display: inline-block;
+    width:49.8%;
+
+    word-wrap: break-word;
+}   
+.img3
+{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+
+
+    float:left
+}
+.test1
+{
+    display: inline-block;
+
+}
+.test2
+{
+    height: 105px;
+
+}
+.date
+{
+
+    float: right;
+}
+.hr1
+{
+    width: 90%;
+    margin-right:5%;
+    margin-left:5%;
+}
+.black
+{
+    width: 90%;
+    height: 2%;
+    margin-right:5%;
+    margin-left:5%;
+}
+
+
+
+
+.header5
+{
+    width: 34%;
+
+    display: inline-block;
+    margin-left:7%;
+    float:left
+}   
+
+
+.header7
+{
+
+    display: inline-block;
+    
+}
+
+.header6
+{
+
+    display: inline-block;
+    margin-right:7%;
+    float:right
+}
+.img4
+{
+    width: 210px;
+    height: 130px;
+
+
+}
+
+.quyu3
+{
+    display: inline-block;
+    width:49.7%;
+    border-right:1px solid black;
+    word-wrap: break-word;
+    float:left
+}
+
+.quyu4
+{
+    display: inline-block;
+    width:30%;
+    word-wrap: break-word;
+    list-style-type:none;
+    float:left
+    
+}
+
+.quyu5
+{
+    display: inline-block;
+    width:30%;
+    word-wrap: break-word;
+    list-style-type:none;
+    float:right
+}
